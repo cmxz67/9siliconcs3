@@ -5,3 +5,7 @@ Hobby- Sports
 
 Activity 1
 [hello](https://github.com/cmxz67/9siliconcs3/blob/main/Quarter%201/zodiacSectionLN.py)
+
+Activity 2
+[]()
+[]()
