@@ -25,3 +25,32 @@ Abstraction can be used for tasks that the store needs to do often. For example,
 
 Reflection: 
 I think encapsulation would be the most useful for the inventory system. A store has many products, so putting each product's name, price, and stock in its own object would keep the information organized. It would also make changing the stock easier because the program can use methods instead of changing the values everywhere. If the store gets more products later, the same structure can still be used.
+
+PSEUDOCODE:
+CLASS Product
+    SET name
+    SET price
+    SET stock
+
+    METHOD add_stock(amount)
+        stock = stock + amount
+
+    METHOD remove_stock(amount)
+        IF amount <= stock
+            stock = stock - amount
+        ELSE
+            DISPLAY "Not enough stock"
+
+CLASS Inventory
+    SET products
+
+    METHOD sell_product(product, amount)
+        product.remove_stock(amount)
+
+CREATE Product "Sardines" WITH price 25 AND stock 10
+CREATE Product "Soap" WITH price 30 AND stock 8
+
+ADD products to Inventory
+
+SELL 2 Sardines
+DISPLAY Sardines stock
