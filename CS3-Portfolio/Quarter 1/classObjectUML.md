@@ -1,8 +1,8 @@
 # SG4 - Understanding Classes and Objects
 ## Class
-# - classCellphone
+- classCellphone
 ## Class Description
-# - My class represents a technology that can be used for communication, for entertainment, and for computations.
+- My class represents a technology that can be used for communication, for entertainment, and for computations.
 ## Properties
 | Property | Data Type | Description |
 |---|---|---|
