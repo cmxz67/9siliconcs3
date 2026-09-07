@@ -7,9 +7,9 @@
 # Visibility Changes
 - | Method | Description | Visibility | Why Public or Private? |
 |---|---|---|---|
-| | | | |
-| | | | | 
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+|  |  |  |  |
+|  |  |  |  | 
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
