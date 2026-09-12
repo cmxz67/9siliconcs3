@@ -4,15 +4,15 @@
 ## Hobby- Sports
 
 ## Activity 1
-[ctskills](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/ctskillsSiliconCAMINAR.md)
+[View my Computation-Skills](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/ctskillsSiliconCAMINAR.md)
 
 ## Activity 2
-[zodiacmd](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/zodiacSiliconCAMINAR.md)
-[zodiacpython](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/zodiacSiliconCAMINAR.py)
+[View my Zodiac- MD](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/zodiacSiliconCAMINAR.md)
+[View my Zodiac- Python](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/zodiacSiliconCAMINAR.py)
 
 ## ILA
-[OOP](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/ila_oop.md)
+[View my OOP](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/ila_oop.md)
 
 ## Activity 3
-[OOPAct-1](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/classObjectUML.md)
-[OOPAct-2](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/classAttributesMethods.md)
+[View my OOPAct-1](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/classObjectUML.md)
+[View my OOPAct-2](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/classAttributesMethods.md)
