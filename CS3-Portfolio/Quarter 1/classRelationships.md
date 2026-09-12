@@ -30,5 +30,6 @@ Explanation: One cellphone can have zero or more applications installed. This fi
 ### How did you implement the relationship in Python?
 - 
 ### Why did you store an object reference instead of copying its data?
+- 
 ### If your relationship uses many, why is a list appropriate?
 - A list is appropriate because one cellphone can have many applications. It stores the actual Application objects, so I can loop through them and access the information of each application.
