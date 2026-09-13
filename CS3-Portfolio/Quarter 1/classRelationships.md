@@ -15,21 +15,68 @@ Explanation: A cellphone can contain applications that the user downloads and us
 Multiplicity: 0..* (One-to-Many)
 Explanation: One cellphone can have zero or more applications installed. This fits because a cellphone can have many applications, and the user can add or remove them whenever they want.
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
++----------------------------------+
+|            Cellphone             |
++----------------------------------+
+| + Storage_Limit : Boolean        |
+| + Model_Number : Integer         |
+| + Application : String           |
+| + Internal_Storage : Integer     |
++----------------------------------+
+| + downloadApplication()          |
+| + uninstallApplication()        |
+| + openApplication()             |
+| + closeApplication()            |
+| + display(Internal_Storage)     |
+| + display(Model_Number)         |
+| + addApplication(app)           |
++----------------------------------+
+                 1
+                 |
+                 | contains
+                 |
+               0..*
+                 |
++----------------------------------+
+|           Application            |
++----------------------------------+
+| + name : String                  |
+| + category : String              |
++----------------------------------+
+| + displayInfo()                  |
++----------------------------------+
 ## Python Implementation
 [View Python Source](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/classRelationships.py)
 ## Test Run
 ![Relationship Test Run](image-5.png)
 ## Object Relationship Diagram
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+object1 : Cellphone
+Model_Number = Samsung A15
+Application = [YouTube, Messenger, Roblox]
+Internal_Storage = 64GB
+Storage_Limit = 128GB
+        |
+        | contains
+        |
+        +------> app1 : Application
+        |        name = YouTube
+        |        category = Entertainment
+        |
+        +------> app2 : Application
+        |        name = Messenger
+        |        category = Communication
+        |
+        +------> app3 : Application
+                 name = Roblox
+                 category = Entertainment
 ## Analysis
 ### What is the association between your two classes?
 - Cellphone contains and manages Application objects. The applications are connected to the cellphone so the user can access and use them through the device.
 ### What multiplicity did you choose and why?
 - I chose One-to-Many. One cellphone can have zero or more applications installed. This fits because a cellphone can have many applications, and the user can keep downloading or uninstalling them.
 ### How did you implement the relationship in Python?
-- 
+- - I used a list called self.apps inside the Cellphone class to store the Application objects. The addApplication() method adds an Application object to the list, which connects the cellphone to its applications.
 ### Why did you store an object reference instead of copying its data?
-- 
+- - I stored the Application object itself so I can access its name and category directly through the cellphone. This avoids copying the same information into the Cellphone class and keeps the Application data in its own object.
 ### If your relationship uses many, why is a list appropriate?
 - A list is appropriate because one cellphone can have many applications. It stores the actual Application objects, so I can loop through them and access the information of each application.
