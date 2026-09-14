@@ -15,11 +15,11 @@ Link to my previous activity:
 ![Class Diagram](Pencil.png)
 ## Python Implementation
 
-[View Python Source](classImplementation.py)
+[View Python Source](classimplementation.py)
 ## Test Run
-![Test Run](Screenshot 2026-09-08 235438.png)
+![Test Run](images/classTestRun.png)
 ## Object Diagram
-![Object Diagram](objectDiagram.png)
+![Object Diagram](images/objectDiagram.png)
 ## Analysis
 ### Why did you make your chosen attribute private?
 - I made isSharpened private because it keeps the pencil's sharpened state protected. If another part of the program changed it directly, the value could become incorrect. Using a method to change it makes the object easier to control.
