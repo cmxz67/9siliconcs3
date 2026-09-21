@@ -12,7 +12,6 @@ Description: This class represents an object used to store school supplies like:
 Relationship: Storage
 Explanation: The pencil case can store the pencil inside it
 ## Multiplicity
-nigger
 Multiplicity:
 Explanation:
 ## UML Class Relationship Diagram
