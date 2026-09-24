@@ -20,3 +20,5 @@
 [View my OOPAct-2](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/classAttributesMethods.md)
 
 [View my OOPAct-3](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/classRelationships.md)
+
+[View my OOPAct-4](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/advancedRelationships.md)
