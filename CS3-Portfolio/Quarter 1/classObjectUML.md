@@ -20,7 +20,7 @@
 | display(Internal_Storage) | It displays the amount of internal storage left. |
 | display(Model_Number) | It displays the model number of the Cellphone. |
 ## Class Diagram
-![Class Diagram](image-1.png)
+[![Class Diagram](images/image-1.png)
 ## Design Explanation
 ### Why did you choose this class?
 - I chose the Cellphone class because it is something I use regularly, so its properties and functions are easier to identify and explain. A cellphone is not limited to just one purpose. Depending on the applications installed, it can be used for messaging, schoolwork, games, watching videos, and many other activities. Because of this, I could clearly connect its features to properties and its actions to methods.
