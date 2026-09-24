@@ -13,16 +13,16 @@
 | Internal_Storage | Integer | Private | The storage amount should not be changed directly because it affects the cellphone's available space. |
 
 # Updated UML Class Diagram
-![Class Diagram](image-2.png)
+![Class Diagram](images/image-2.png)
 
 # Python Implementation
 [Python-Code](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/classImplementation.py)
 
 # Test: 
-![Python-Code](image-3.png)
+![Python-Code](images/image-3.png)
 
 # Object Diagram:
-![Object-Diagram](image-4.png)
+![Object-Diagram](images/image-4.png)
 
 # Analysis
 ## Why did you make your chosen attribute private?

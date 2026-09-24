@@ -15,13 +15,13 @@ Explanation: A cellphone can contain applications that the user downloads and us
 Multiplicity: 0..* (One-to-Many)
 Explanation: One cellphone can have zero or more applications installed. This fits because a cellphone can have many applications, and the user can add or remove them whenever they want.
 ## UML Class Relationship Diagram
-![UML Class Relationship Diagram](image-6.png)
+![UML Class Relationship Diagram](images/image-6.png)
 ## Python Implementation
 [View Python Source](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/classRelationships.py)
 ## Test Run
-![Relationship Test Run](image-5.png)
+![Relationship Test Run](images/image-5.png)
 ## Object Relationship Diagram
-![Object Relationship Diagram](image-7.png)
+![Object Relationship Diagram](images/image-7.png)
 ## Analysis
 ### What is the association between your two classes?
 - Cellphone contains and manages Application objects. The applications are connected to the cellphone so the user can access and use them through the device.
