@@ -3,7 +3,7 @@
 ## Section: 9-Silicon
 ## Hobby- Sports
 
-#QUARTER 1
+# QUARTER 1
 
 ## Activity 1
 [View my Computation-Skills](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%201/ctskillsSiliconCAMINAR.md)
