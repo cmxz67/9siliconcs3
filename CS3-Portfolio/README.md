@@ -29,3 +29,6 @@
 
 ## Activity 1
 [View my Encapsulation Activity](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%202/sg8_encapsulation.py)
+
+## Activity 2
+[View my Inheritance Activity](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%202/sg9_inheritance.py)
