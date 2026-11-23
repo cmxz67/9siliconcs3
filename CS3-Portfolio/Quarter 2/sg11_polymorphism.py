@@ -31,7 +31,7 @@ class SeniorPatient(Patient):
     print("Patient Type: Senior Citizen")
 # child class para sa PhilHealth member
 class PhilhealthPatient(Patient):
-  # since may 15% na discount(100-15=85), there imumultiply sa 0.75 ung original bill amount
+  # since may 15% na discount(100-15=85), therefore imumultiply sa 0.75 ung original bill amount
   def calculate_bill(self):
     return self.bill_amount*0.85
   # the patient type changes
