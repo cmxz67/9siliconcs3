@@ -32,3 +32,6 @@
 
 ## Activity 2
 [View my Inheritance Activity](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%202/sg9_inheritance.py)
+
+## Activity 3
+[View my Method_Overriding Activity](https://github.com/cmxz67/9siliconcs3/blob/main/CS3-Portfolio/Quarter%202/sg10_method_overriding.py)
